@@ -1,0 +1,14 @@
+﻿  Bounty.cpp
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(230,53): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(242,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Bounty.cpp(305,21): warning C4018: '<': signed/unsigned mismatch
+  PirateKing.vcxproj -> C:\Users\Pearce\Desktop\Pirate_King\PirateKing\Debug\PirateKing.exe
