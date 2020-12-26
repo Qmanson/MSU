@@ -1,0 +1,27 @@
+﻿  Shop.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstddef(127,22): error C2676: binary '<': 'const _Ty' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _Ty=CItem
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstddef(126): message : while compiling class template member function 'bool std::less<CItem>::operator ()(const _Ty &,const _Ty &) const'
+          with
+          [
+              _Ty=CItem
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(1616): message : see reference to function template instantiation 'bool std::less<CItem>::operator ()(const _Ty &,const _Ty &) const' being compiled
+          with
+          [
+              _Ty=CItem
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xmemory(1329): message : see reference to class template instantiation 'std::less<CItem>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xmemory(1329): message : see reference to variable template 'const bool is_empty_v<std::less<CItem> >' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\map(75): message : see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=CItem,
+              _Ty=int,
+              _Pr=std::less<CItem>,
+              _Alloc=std::allocator<std::pair<const CItem,int>>
+          ]
+C:\Users\Pearce\Desktop\Pirate_King\PirateKing\PirateKing\Shop.h(17): message : see reference to class template instantiation 'std::map<CItem,int,std::less<CItem>,std::allocator<std::pair<const CItem,int>>>' being compiled
